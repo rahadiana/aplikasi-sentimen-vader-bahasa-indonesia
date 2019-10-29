@@ -12,7 +12,7 @@ setelah clone tambahkan
     composer require davmixcool/php-sentiment-analyzer
 
 
-[Lihat Tutorial](www.youtube.com/channel/UCiIfsCQnKX5Av57LyyANJPQ)
+[Lihat Tutorial](https://www.youtube.com/channel/UCiIfsCQnKX5Av57LyyANJPQ)
 
 
 [Lebih lanjut tentang Vader Sentiment Lexicon](https://medium.com/@ahtuz/twitter-sentiment-analysis-bahasa-indonesia-dengan-textblob-f34e1ffdcdaa)
